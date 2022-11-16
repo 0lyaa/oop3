@@ -1,0 +1,15 @@
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.csproj.AssemblyReference.cache
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.AssemblyInfoInputs.cache
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.AssemblyInfo.cs
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\olgak\source\repos\Laba6\Laba6\bin\Debug\net6.0\Laba6.exe
+C:\Users\olgak\source\repos\Laba6\Laba6\bin\Debug\net6.0\Laba6.deps.json
+C:\Users\olgak\source\repos\Laba6\Laba6\bin\Debug\net6.0\Laba6.runtimeconfig.json
+C:\Users\olgak\source\repos\Laba6\Laba6\bin\Debug\net6.0\Laba6.dll
+C:\Users\olgak\source\repos\Laba6\Laba6\bin\Debug\net6.0\Laba6.pdb
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.dll
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\refint\Laba6.dll
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.pdb
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\Laba6.genruntimeconfig.cache
+C:\Users\olgak\source\repos\Laba6\Laba6\obj\Debug\net6.0\ref\Laba6.dll
